@@ -1,0 +1,10 @@
+Package: com.ranjotsingh.disablevoicecontrol
+Name: DisableVoiceControl
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disable the Voice Control functionality, which is normally activated when Siri is disabled.
+Maintainer: ranjotsingh
+Author: ranjotsingh
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 69
